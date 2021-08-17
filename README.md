@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheilaamalia&label=Profile%20views&color=0e75b6&style=flat" alt="sheilaamalia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sheilaamalia" target="blank"><img src="https://img.shields.io/twitter/follow/sheilaamalia?logo=twitter&style=for-the-badge" alt="sheilaamalia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/herdatajourney" target="blank"><img src="https://img.shields.io/twitter/follow/herdatajourney?logo=twitter&style=for-the-badge" alt="herdatajourney" /></a> </p>
 
 - 🌱 I’m currently learning **data science & data engineering**
 
